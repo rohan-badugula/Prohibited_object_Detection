@@ -1,0 +1,17 @@
+https://www.mdpi.com/2079-9292/12/18/3934--2023---Dual attention
+https://ieeexplore.ieee.org/document/10219712---attention
+https://link.springer.com/article/10.1007/s11042-023-16628-8---Yolov4+ Attention
+https://ieeexplore.ieee.org/document/9977427----Transformers
+https://www.mdpi.com/1424-8220/23/8/4069----FSVM
+https://ieeexplore.ieee.org/document/10191378---DATA AGUMENTATION ENSEMBLE
+https://ieeexplore.ieee.org/document/10248729---IMPROVED YOLO V7
+https://ieeexplore.ieee.org/document/10158706---GAN---2023
+https://ieeexplore.ieee.org/document/9695855---YOLOv4 --2022
+https://ieeexplore.ieee.org/document/9832407---YOLOV5---2022
+https://ieeexplore.ieee.org/document/9594145---2021--YOLOV3+SPP
+https://ieeexplore.ieee.org/document/7532519---pretrained  cnn--2016
+https://link.springer.com/chapter/10.1007/978-3-030-03335-4_37---attention mech---2018
+https://www.mdpi.com/2079-9292/12/18/3934---Dual attention - 2023
+https://ieeexplore.ieee.org/abstract/document/8306909---deep cnn --2018
+https://link.springer.com/chapter/10.1007/978-981-99-6222-8_3---improved yolov5 --2023
+https://www.mdpi.com/2079-9292/12/17/3636----improved yolov7 --2023
