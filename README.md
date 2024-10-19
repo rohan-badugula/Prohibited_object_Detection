@@ -6,7 +6,7 @@ This repository contains the code and methodology for developing an automated sy
 
 ---
 
-## ![Visual of Detected Threat Items in X-ray Images](path/to/image.jpg)
+## ![Visual of Detected Threat Items in X-ray Images](images/result.jpg)
 
 *Sample images from the SIXray dataset demonstrating detected prohibited items such as guns and knives.*
 
