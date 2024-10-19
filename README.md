@@ -95,7 +95,7 @@ In our experiment, we compared YOLO-NAS against YOLOv8 using the same environmen
 
 ### Detection Results
 
-![Sample Detection Results](Images/result.jpg)
+![Sample Detection Results](Images/result2.jpg)
 
 *Figure: Detection results from the test dataset.*
 
