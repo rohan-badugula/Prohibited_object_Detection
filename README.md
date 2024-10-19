@@ -6,7 +6,7 @@ This repository contains the code and methodology for developing an automated sy
 
 ---
 
-## ![Visual of Detected Threat Items in X-ray Images](images/result.jpg)
+## ![Visual of Detected Threat Items in X-ray Images](Images/result.jpg)
 
 *Sample images from the SIXray dataset demonstrating detected prohibited items such as guns and knives.*
 
@@ -42,11 +42,14 @@ We used the **SIXray dataset**, consisting of over **1,059,231 X-ray images** so
 
 Here’s a breakdown of the dataset distribution:
 
-![Class Distribution in SIXray Dataset](path/to/class-distribution-image.jpg)
+![Class Distribution in SIXray Dataset](Images/dataset2.jpg)
 
 *Figure: Distribution of prohibited objects across six classes.*
 
 For the experiment, we split the dataset using a **70-10-20 ratio** for training, validation, and testing, respectively.
+
+Here are the sample images:
+![Sample images in SIXray Dataset](Images/dataset.jpg)
 
 ---
 
@@ -60,7 +63,7 @@ Our system is built upon **YOLO-NAS**, an advanced real-time object detection mo
 
 Below is a schematic of the YOLO-NAS architecture used:
 
-![YOLO-NAS Architecture](path/to/yolo-nas-architecture.jpg)
+![YOLO-NAS Architecture](Images/arch.jpg)
 
 *Figure: YOLO-NAS architecture showing the Backbone, Neck, and Head components.*
 
@@ -70,7 +73,7 @@ We trained the YOLO-NAS-l (large) model using a **NVIDIA Tesla P100 GPU** for **
 
 Below is the training progression, comparing key metrics such as **Precision, Recall**, and **mAP50** for YOLO-NAS and YOLOv8:
 
-![Training Metrics Comparison](path/to/training-metrics-comparison.jpg)
+![Training Metrics Comparison](Images/metrics.jpg)
 
 *Figure: Comparison of Precision, Recall, and mAP between YOLO-NAS and YOLOv8 models.*
 
@@ -90,7 +93,7 @@ In our experiment, we compared YOLO-NAS against YOLOv8 using the same environmen
 
 ### Sample Detection Results
 
-![Sample Detection Results](path/to/detection-results.jpg)
+![Sample Detection Results](Images/results.jpg)
 
 *Figure: Detection results from the test dataset.*
 
