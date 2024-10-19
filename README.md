@@ -49,6 +49,8 @@ Here’s a breakdown of the dataset distribution:
 For the experiment, we split the dataset using a **70-10-20 ratio** for training, validation, and testing, respectively.
 
 Here are the sample images:
+
+
 ![Sample images in SIXray Dataset](Images/dataset.jpg)
 
 ---
@@ -91,9 +93,9 @@ In our experiment, we compared YOLO-NAS against YOLOv8 using the same environmen
 
 ## Results and Discussion
 
-### Sample Detection Results
+### Detection Results
 
-![Sample Detection Results](Images/results.jpg)
+![Sample Detection Results](Images/result.jpg)
 
 *Figure: Detection results from the test dataset.*
 
@@ -108,6 +110,8 @@ Our model achieved the following class-specific mAP scores:
 | Wrenches | 0.882 |
 
 The overall mAP of **0.924** surpasses the performance of YOLOv8 by a notable margin of **12%**.
+
+
 
 ---
 
